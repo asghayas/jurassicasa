@@ -1,2 +1,5 @@
 have
 how
+that
+core
+those
